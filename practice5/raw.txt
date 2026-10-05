@@ -1,0 +1,11 @@
+RECEIPT
+
+Apple 2.50
+Milk 1.80
+Bread 1.20
+Chocolate 3.50
+
+Total: 9.00
+Date: 2026-10-05
+Phone: +77001234567
+Email: test@gmail.com
